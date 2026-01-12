@@ -22,7 +22,7 @@ python waylon.py and have fun!
 
 A few words about the engine.
 
-Search Architecture: The code implements a standard and efficient set of algorithms for games:
+Search Architecture. The code implements a standard and efficient set of algorithms for games:
 - Alpha-Beta pruning with windows,
 - Iterative Deepening – allowing for better time utilization and sorting of moves in subsequent iterations,
 - Transposition Table (TT) – a hash table for storing previously computed positions,
